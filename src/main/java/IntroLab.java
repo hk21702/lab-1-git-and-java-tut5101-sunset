@@ -48,17 +48,7 @@ public class IntroLab {
 
     public static void main(final String[] args) {
         System.out.println(exampleStudent());
-
-        /* TODO: Add a call to the method you wrote in this main method,
-         *        and print the results of it.
-         *
-         * As a reference, we've provided a sample call to exampleStudent
-         * above. Afterwards: run this file to see the output!
-         */
-
-
+        System.out.println(xiongy23());
     }
-
-    // TODO: Go to test/java/IntroLabTest.java afterwards and complete the TODO.
 
 }

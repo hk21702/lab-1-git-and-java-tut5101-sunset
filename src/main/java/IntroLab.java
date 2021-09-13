@@ -41,6 +41,13 @@ public class IntroLab {
      * Make sure you document your method properly!
      */
 
+     /**
+     * Calls print lab message with kuochihh
+     */
+     public static String kuochihh() {
+         return printLabMessage("Hello", "Chih-Hao Kuo", true, "Welcome to CSC207!");
+     }
+
     /**
      * An example method that calls on printLabMessage.
      */
@@ -59,6 +66,7 @@ public class IntroLab {
          * As a reference, we've provided a sample call to exampleStudent
          * above. Afterwards: run this file to see the output!
          */
+        System.out.println(kuochihh());
 
 
     }
